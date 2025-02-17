@@ -9,7 +9,7 @@ This project demonstrates how to automate Docker containerization and provisioni
 ---
 
 ## 📑 Table of Contents
-- [Prerequisites](-prerequisites) 🔑
+- [Prerequisites](-Prerequisites) 🔑
 - [Architecture](-architecture) 🗺️
 - [Setup & Installation](-setup-and-installation) 🛠️
 - [Vagrant Setup](-vagrant-setup) 🐳
