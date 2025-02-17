@@ -173,7 +173,7 @@ Open a browser and navigate to `http://<VM-IP>:<Host-Port>`
 
 ---
 
-💻 Output
+## 💻 Output
 
 ![Screenshot 2025-02-13 152936](https://github.com/user-attachments/assets/fed7d5c2-b325-40b4-96dc-f96b58433da9)
 
